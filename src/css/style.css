@@ -1,0 +1,139 @@
+body {
+    background-color: #000000;
+    overflow: hidden;
+}
+
+main .produto{
+    display: none;
+    height: 100vh;
+}
+
+main .produto.selecionado{
+    display: block;
+}
+
+main .produto .imagem{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.conteudo{
+    position: absolute;
+    top: 0;
+    left: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    max-width: 800px;
+}
+
+.conteudo .nome-produto{
+    color: aliceblue;
+    font-size: 100px;
+    font-family: "Great vibes";
+    font-weight: 400;
+    margin-bottom: 0px;
+    margin-top: 60px;
+    text-shadow: 2px 3px 3px black; 
+    width: max-content; 
+}
+
+.conteudo .salgados_assados{
+    color: aliceblue;
+    font-size: 100px;
+    font-family: "Great vibes";
+    font-weight: 400;
+    margin-bottom: 0px;
+    margin-top: 60px;
+    text-shadow: 2px 3px 2px black; 
+    width: max-content;
+}
+
+.conteudo .descricao{
+    color: aliceblue;
+    font-family: "Great vibes";
+    font-size: 45px;
+    line-height: 45px;  
+    font-weight: 400;
+    text-shadow: 2px 3px 3px black;  
+    margin-bottom: 150px;
+}
+
+.conteudo .logo{
+    background-size: cover;
+    background-image: url("../imagens/Adriana-logo.png");
+    min-width: 400px;
+    min-height: 400px;
+    height: 100px;
+    width: 230px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+.botoes{
+    position: fixed;
+    top: 0;
+    right: 0;
+    min-width: 250px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    margin-right: 10px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.botoes .botao {
+    border: none;
+    background: none;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.botoes .botao img {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.botoes .botao.selecionado{
+    transform: scale(1.2);
+    box-shadow: 0 0 10px #d9d9d9;
+}
+
+.conteudo .descricao_produto {
+    color: aliceblue;
+    font-family: "Great vibes";
+    font-size: 50px;
+    line-height: 65px;  
+    font-weight: 400;
+    text-shadow: 2px 3px 3px black; 
+    width: max-content;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.conteudo .descricao_assados .mini_lanches{
+    font-size: 100px;
+    margin-bottom: 40px;
+    margin-top: 60px;
+}
+
+.conteudo .descricao_assados{
+    color: aliceblue;
+    font-family: "Great vibes";
+    font-size: 50px;
+    line-height: 65px;  
+    font-weight: 400;
+    text-shadow: 2px 3px 3px black; 
+    width: max-content;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+

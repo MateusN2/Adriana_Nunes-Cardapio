@@ -30,7 +30,7 @@
         min-width: 350px;
         line-height: 37px;
         position: absolute;
-        top: 350px;
+        top: 280px;
         margin: 0;
     }
 
@@ -45,7 +45,7 @@
     .conteudo .salgados_assados{
         font-size: 45px;
         position: absolute;
-        top: 180px;
+        top: 140px;
         left: 45px;
     }
 
@@ -58,7 +58,7 @@
         font-size: 45px;
         margin-left: 65px;
         position: absolute;
-        top: 200px;
+        top: 140px;
         left: 0;
     }
 
@@ -85,7 +85,7 @@
         width: 350px;
         line-height: 40px;
         position: absolute;
-        top: 270px;
+        top: 250px;
     }
 
 }

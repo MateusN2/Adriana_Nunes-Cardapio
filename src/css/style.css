@@ -21,7 +21,7 @@ main .produto .imagem{
 .conteudo{
     position: absolute;
     top: 0;
-    left: 300px;
+    left: 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -64,13 +64,13 @@ main .produto .imagem{
 .conteudo .logo{
     background-size: cover;
     background-image: url("../imagens/Adriana-logo.png");
-    min-width: 400px;
-    min-height: 400px;
+    min-width: 250px;
+    min-height: 250px;
     height: 100px;
     width: 230px;
-    margin-bottom: 50px;
     border-radius: 50%;
     margin-left: 50px;
+    margin-top: 20px;
 }
 
 .botoes{
@@ -81,7 +81,7 @@ main .produto .imagem{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    width: 250px;
+    width: 300px;
     justify-content: center;
     align-items: center;
     gap: 30px;

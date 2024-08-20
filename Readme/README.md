@@ -24,7 +24,7 @@ Após muito tempo consegui torna-lo responsivo para a maioria das telas mobile.
 
 Tive o cuidado de criar imagens exclusivas para algumas áreas do site, como a criação do Logo personalizado e a criação de um FavIcon para indicar o site e torna-lo mais autentico e bonito.
 
-[<img src="./Readme/Print-Favicon-salgados.png">]
+[<img src="./Captura de tela 2024-08-20 190343.png" alt="Print do incone da página">]
 
 ## Inspiração
 

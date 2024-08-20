@@ -64,7 +64,7 @@
 
     .botoes {
         padding: 20px;
-        top: -20px;
+        top: -50px;
         margin-right: 15px;
         left: 1%;
         gap: 20px;
@@ -112,11 +112,11 @@
 
     .botoes{
         padding: 0px;
-        bottom: 45px;
+        bottom: 55px;
     }
 
     .conteudo .nome-produto {
-        top: 30px;
+        top: 20px;
         left: -2px;
     }
 
@@ -134,7 +134,7 @@
     }
 
     .conteudo .salgados_assados{
-        top: 30px;
+        top: 20px;
         left: 22px;
     }
 
@@ -142,7 +142,7 @@
         font-size: 30px;
         line-height: 31px;
         padding-right: 30px;
-        top: 110px;
+        top: 190px;
     }
 
 }

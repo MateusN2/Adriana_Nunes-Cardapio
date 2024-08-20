@@ -39,13 +39,13 @@
         width: 350px;
         line-height: 50px;
         position: absolute;
-        top: 290px;
+        top: 210px;
     }
 
     .conteudo .salgados_assados{
         font-size: 45px;
         position: absolute;
-        top: 140px;
+        top: 130px;
         left: 45px;
     }
 
@@ -56,9 +56,9 @@
 
     .conteudo .nome-produto{
         font-size: 45px;
-        margin-left: 65px;
+        margin-left: 55px;
         position: absolute;
-        top: 140px;
+        top: 130px;
         left: 0;
     }
 
@@ -85,7 +85,7 @@
         width: 350px;
         line-height: 40px;
         position: absolute;
-        top: 250px;
+        top: 210px;
     }
 
 }
@@ -112,12 +112,12 @@
 
     .botoes{
         padding: 0px;
-        bottom: 30px;
+        bottom: 45px;
     }
 
     .conteudo .nome-produto {
-        top: 50px;
-        left: -22px;
+        top: 30px;
+        left: -2px;
     }
 
     .conteudo .descricao {
@@ -128,13 +128,13 @@
 
     .conteudo .descricao_produto {
         font-size: 30px;
-        line-height: 40px;
+        line-height: 38px;
         padding-right: 25px;
-        top: 150px;
+        top: 110px;
     }
 
     .conteudo .salgados_assados{
-        top: 50px;
+        top: 30px;
         left: 22px;
     }
 
@@ -142,7 +142,7 @@
         font-size: 30px;
         line-height: 31px;
         padding-right: 30px;
-        top: 150px;
+        top: 110px;
     }
 
 }

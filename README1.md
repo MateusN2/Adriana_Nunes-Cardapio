@@ -3,7 +3,7 @@
 Um projeto realizado com o intuito de criar um cardápio digital e interativo, afim de facilitar a visualização e trazer maior praticidade para possíveis clientes.
 
 
-[<img src="./Gif-cardapio-pc.gif" alt="Gif da visibilidade do projeto no computador">]
+[<img src="./Readme/Gif-cardapio-pc.gif" alt="Gif da visibilidade do projeto no computador">]
 
 ## Tecnologias utilizadas
 
@@ -18,13 +18,13 @@ Um projeto realizado com o intuito de criar um cardápio digital e interativo, a
 Encontrei muita dificuldade em tornar o site responsivo para a maior quantidade de telas possíveis, afinal, o objetivo deste cardápio é entregar para a maior quantidade de pessoas um site fácil de se utilizar, visivelmente bonito e funcional. 
 Após muito tempo consegui torna-lo responsivo para a maioria das telas mobile.
 
-[<img src = "./Gif_cardapio_responsividade.gif" alt="Gif da visibilidade do projeto em aparelhos mobile">]
+[<img src = "./Readme/Gif_cardapio_responsividade.gif" alt="Gif da visibilidade do projeto em aparelhos mobile">]
 
 ### Detalhes 
 
 Tive o cuidado de criar imagens exclusivas para algumas áreas do site, como a criação do Logo personalizado e a criação de um FavIcon para indicar o site e torna-lo mais autentico e bonito.
 
-[<img src="./Captura de tela 2024-08-20 190343.png" alt="Print do incone da página">]
+[<img src="./Readme/Captura de tela 2024-08-20 190343.png" alt="Print do incone da página">]
 
 ## Inspiração
 
